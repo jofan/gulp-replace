@@ -1,6 +1,10 @@
 # gulp-replace [![NPM version][npm-image]][npm-url] [![Build status][travis-image]][travis-url]
 > A string replace plugin for gulp 3
 
+## This is a fork of original gulp module
+
+The only difference is the addition of ___file.path___ as second parameter to replacement function.
+
 ## Usage
 
 First, install `gulp-replace` as a development dependency:
